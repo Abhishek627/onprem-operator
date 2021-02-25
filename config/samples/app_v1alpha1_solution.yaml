@@ -1,0 +1,7 @@
+apiVersion: app.example.com/v1alpha1
+kind: Solution
+metadata:
+  name: solution-sample
+spec:
+  # Add fields here
+  foo: bar
